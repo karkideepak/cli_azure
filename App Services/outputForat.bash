@@ -1,0 +1,4 @@
+-o table
+-o json
+-o yaml
+--query "[].{Name:name, Location:location}"
